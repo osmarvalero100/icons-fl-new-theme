@@ -1,0 +1,1 @@
+console.log('iconos-farmalisto.js');
